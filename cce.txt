@@ -1,0 +1,94 @@
+{de} dedication
+{sde} 2nd+line ded
+{cpt} caption
+{sx} section 1
+{sx2} section 2
+{as} act-scene in drama
+{/as} end
+{sxt} section title
+{au} chapter author
+{ha} sub-heading 1
+{hb} sub-heading 2
+{hn} sub-heading n
+{ep} epigraph
+{sep} 2nd line epg
+{epa} attribution
+{eph} w/ head-title
+{seph} 2nd line eph
+{epha} attribution
+{ti} title
+{sti} sub-title
+{ht} head-title
+{sht} sub-head-title
+{ct} chapter title
+{cst} chapter sub-title
+{cn} chapter number
+{pt} part title
+{pn} part number
+{/sd} end stage directions
+{sd} stage directions
+{sp} speech prefixes
+{/sp} end speech prefixes
+{sbi} item 2+
+{bi} bibliography
+{sgl} item 2+
+{gl} glossary
+{sli} item 2+
+{li} numbered list
+{svs} subsequent "
+{vs} Poem: 1st verse
+{tn} textual note
+{fn}# footnote
+{stx} parag after
+{stx} flush-l after
+{sex} new parag in
+{ex} excerpt
+{hnp} sub-heading n
+{hbp} sub-heading 2
+{hap} sub-heading 1
+{sop} section opening
+{cop} chapter opening
+{oe} oe (lig)
+{prg} new paragraph
+{s7} dagger
+{s4} 1/4
+{s2} 1/2
+{s3} cent sign
+{|} vertical stroke
+{s5} plus & minus
+{s1} paragraph sign
+{pi} Greek pi
+{s6} degree sign
+{1/} Polish l
+{ecd} Polish e
+{acd} Polish a
+{itld} wavy dash
+{icr} inferior caret
+{brv} breve
+{mac} macron
+{tld} tilder
+{g} grave
+{um} umlaut
+{cr} circumflex
+{cd} cedilla
+{a} acute
+{--} one-em dash
+-- one-en dash
+{---} two-em dash
+{op'} open '
+{op"} open "
+{s} superior script
+{ss} 2+
+{es} end ss
+{i} inferior script}
+{ii} 2+ 
+{ei} end inferior
+{mi} minus
+{di} divide
+{bp} British pound
+{stx} end code for parts
+{ro} roman uc + lc
+{it} italic
+{bo} bold
+{sc} small caps
+{fr} flush right
